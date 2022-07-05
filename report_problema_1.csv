@@ -1,0 +1,53 @@
+Pergunta 1,
+,
+Número de Clientes:,
+10000,
+,
+Pergunta 2,
+,
+Média de Idade:,
+53.7831,
+,
+Pergunta 3,
+,
+Clientes por estado:,
+Estado,Número de Clientes
+AC,371
+AL,371
+AM,371
+AP,371
+BA,371
+CE,371
+DF,371
+ES,371
+GO,371
+MA,371
+MG,370
+MS,370
+MT,370
+PA,370
+PB,370
+PE,370
+PI,370
+PR,370
+RJ,370
+RN,370
+RO,370
+RR,370
+RS,370
+SC,370
+SE,370
+SP,370
+TO,370
+,
+Pergunta 4,
+,
+CPFs válidos e inválidos:,
+Válidos,Inválidos
+10000,0
+,
+Pergunta 5,
+,
+CNPJs válidos e inválidos:,
+Válidos,Inválidos
+10000,0
